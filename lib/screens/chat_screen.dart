@@ -16,7 +16,7 @@ class _ChatScreenState extends State<ChatScreen> {
     return Scaffold(
       appBar: AppBar(
         elevation:2 ,
-        title:const Text("ChatGPT"),
+        title:const Text("ChatGPT Yo"),
         leading: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Image.asset('images/openai_logo.jpg'),
